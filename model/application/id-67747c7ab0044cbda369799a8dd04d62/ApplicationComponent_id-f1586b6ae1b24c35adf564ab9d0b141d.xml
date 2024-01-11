@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1C UPR DB AJAX"
+    id="id-f1586b6ae1b24c35adf564ab9d0b141d">
+  <properties
+      key="1С Управлінський облік"
+      value="MC"/>
+  <properties
+      key="Tag"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API DWH"
+    id="id-1276e96dcaf545d394d37115d11c24ab"
+    documentation="Format: поля, значення&#xD;&#xA;Json scheme&#xD;&#xA;Tipe&#xD;&#xA;Documentations&#xD;&#xA;Комплектуючі, напівфабрікати, готова продукція.&#xD;&#xA;Засоби виробництва - тест.стенди"/>

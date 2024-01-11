@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" CI/CD "
+    id="id-e0e7e8b8f1194b9c80de7727c4e413d6">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-029dbd47fc7a4e31a65af2e43c6106a3.xml#id-029dbd47fc7a4e31a65af2e43c6106a3"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c7eb036ec3c54bc9be7ad1d2949a5365.xml#id-c7eb036ec3c54bc9be7ad1d2949a5365"/>
+</archimate:AssociationRelationship>
